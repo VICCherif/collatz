@@ -1,4 +1,4 @@
-# collatz
+# secuencia collatz
 
 esto fue hecho en una plaforma de linux(ubuntu 20.xx)
 
